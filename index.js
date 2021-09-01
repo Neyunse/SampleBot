@@ -13,4 +13,4 @@ client.on("message", async (msg) => {
   // e.g: > !love
   //ouput > i love you <3
 });
-client.login('NzUxOTM0NjExNDQ5MzE1MzI5.X1QTrQ.ZjO33QXQl69Irfun-IE7eWMNDlY');
+client.login(process.env.BOT_TOKEN); // Bot Token on .env file
