@@ -163,4 +163,4 @@ Once you have chosen the permissions, above you will find the bot invitation lin
 
 For this part, I decided to record a video (note that the video does not have a voice)
 
-<iframe src="https://drive.google.com/file/d/1jnwZibyUbh57cNsiGYwOcumKmyX9L5en/preview" width="100%" height="480" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1jnwZibyUbh57cNsiGYwOcumKmyX9L5en/preview
