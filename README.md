@@ -3,8 +3,11 @@ Hello, here's yours truly with another post. Today I'll show you how to create a
 #### Requirements
 
 [NodeJS](https://nodejs.org/)
+
 IDE (VSCODE is recomended)
+
 Qovery account[](https://git-scm.com/)
+
 [Git ](https://git-scm.com/)
 
 > [How to deploy a project in Qovery](https://neyunse.kagarisoft.com/how-to-deploy-a-project-in-qovery/)
