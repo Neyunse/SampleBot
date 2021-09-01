@@ -1,0 +1,12 @@
+{
+  "name": "SampleBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "12.5.3"
+  }
+}
